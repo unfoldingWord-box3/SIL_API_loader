@@ -14,6 +14,6 @@ UW_LD_SECRET=<api_secret>
 ```
 *You know where to get your keys and secrets*
 
-PB_LD: ProgressBible Language Details
-PB_LDIC: ProgressBible Language and Dialects In Country
+PB_LD: ProgressBible Language Details\
+PB_LDIC: ProgressBible Language and Dialects In Country\
 UW_LD: unfoldingWord Language Detail
